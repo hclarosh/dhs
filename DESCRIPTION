@@ -1,7 +1,7 @@
 Package: dhs
 Type: Package
 Title: API for the Demographic and Health Surveys (DHS) Data
-Version: 0.1.0
+Version: 0.3
 Author: John Muschelli 
 Maintainer: John Muschelli <muschellij2@gmail.com>
 Description: Interface with the application program interface ('API') 
