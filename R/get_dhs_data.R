@@ -8,6 +8,7 @@
 #' @return List of the data, the number of pages parsed, the number of
 #' records to be in the output, the number of records in the output.
 #' @export
+#' @importFrom utils setTxtProgressBar txtProgressBar
 get_dhs_data = function(url,
                         query = NULL,
                         progress = TRUE) {

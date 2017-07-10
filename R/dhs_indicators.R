@@ -5,7 +5,7 @@
 #' @export
 #'
 #' @examples
-#' head(list_of_indicators())
+#' head(dhs_indicators())
 dhs_indicators = function(){
   fieldurl = paste0(
     dhs::rest_dhs_url,

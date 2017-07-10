@@ -8,6 +8,7 @@ Description: Interface with the application program interface ('API')
     for the Demographic and Health Surveys (DHS) data 
     <http://dhsprogram.com/data/>.
 Imports:
+    utils, 
     httr,
     rvest,
     stringr

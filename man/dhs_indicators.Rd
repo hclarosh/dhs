@@ -13,5 +13,5 @@ A \code{data.frame} of the listing of indicators
 Returns the set of indicators from DHS from their website
 }
 \examples{
-head(list_of_indicators())
+head(dhs_indicators())
 }
