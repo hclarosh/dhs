@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 
 R/dhs\.R
+^appveyor\.yml$
+^\.travis\.yml$
